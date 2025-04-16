@@ -1,0 +1,14 @@
+{
+  "latest": "v2.2.8",
+  "least": "v2.2.0",
+  "updates": {
+    "v2.2.1": "/updates/v2.2.1.zip",
+    "v2.2.2": "/updates/v2.2.2.zip",
+    "v2.2.3": "/updates/v2.2.3.zip",
+    "v2.2.4": "/updates/v2.2.4.zip",
+    "v2.2.5": "/updates/v2.2.5.zip",
+    "v2.2.6": "/updates/v2.2.6.zip",
+    "v2.2.7": "/updates/v2.2.7.zip",
+    "v2.2.8": "/updates/v2.2.8.zip"
+  }
+}
